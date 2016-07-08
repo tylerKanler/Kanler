@@ -1,0 +1,6 @@
+1. Unzip this package in a separate folder
+2. Put desired permit numbers in permitnumbers.txt
+	- one permit number per line
+
+3. Run the following command 
+       java -jar palo.jar

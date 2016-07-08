@@ -1,0 +1,2 @@
+java -jar civic.jar
+Complee the scraping in a single go, else scraping will start from beginning
